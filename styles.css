@@ -165,6 +165,21 @@ footer {
   }
 }
 
+.buttonone {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: #00ffff;
+  border: none;
+  border-radius: 10px;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+.buttonone:hover {
+  background: #00cccc;
+  transform: scale(1.05);
+}
 
 
 
