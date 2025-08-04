@@ -148,7 +148,7 @@ footer {
   color: #00ffff;
 }
 .proyectoimg {
-   width: 150px;
+   width: 50px;
   margin-top: 1rem;
   border: 2px solid #00ffff66;
   border-radius: 8px;
@@ -163,6 +163,7 @@ footer {
     height: 200px;
   }
 }
+
 
 
 
